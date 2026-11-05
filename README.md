@@ -1,4 +1,4 @@
-![flatphormesmedia.de](./assets/banner.png)
+![flatphormesmedia.de](./assets/fpm-banner.png)
 
 ### Less bla. More code. ❤️ Dresden.
 
